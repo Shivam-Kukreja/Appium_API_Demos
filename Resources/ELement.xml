@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<Capabilities>
+<dvc_name>pixel</dvc_name>
+<ptf_name>android</ptf_name>
+<ptf_vsn>6.0</ptf_vsn>
+<app_actvty>com.example.android.apis.ApiDemos</app_actvty>
+<app_pckg>com.example.android.apis</app_pckg>
+</Capabilities>
+<button>
+<get_animation>//android.widget.TextView[@text='Animation']</get_animation>
+<hide_show>//android.widget.TextView[@text='Hide-Show Animations']</hide_show>
+<btn_hide>//android.widget.LinearLayout[@index='1']/android.widget.CheckBox[@text='Hide (GONE)']</btn_hide>
+<hide_0>//android.widget.LinearLayout[@index='2']/android.widget.Button[@text='0']</hide_0>
+<hide_1>//android.widget.LinearLayout[@index='2']/android.widget.Button[@text='1']</hide_1>
+<hide_2>//android.widget.LinearLayout[@index='2']/android.widget.Button[@text='2']</hide_2>
+<hide_3>//android.widget.LinearLayout[@index='2']/android.widget.Button[@text='3']</hide_3>
+<show>//android.widget.Button[@text='Show Buttons']</show>
+<get_app>//android.widget.TextView[@text='App']</get_app>	
+<action_bar>//android.widget.TextView[@text='Action Bar']</action_bar>
+<display_options>//android.widget.TextView[@text='Display Options']</display_options>
+<show_title>//android.widget.Button[@text='DISPLAY_SHOW_TITLE']</show_title>
+<Text_view>//android.view.ViewGroup[@index='0']/android.widget.TextView[@index='0']</Text_view>
+</button>
+</root>
